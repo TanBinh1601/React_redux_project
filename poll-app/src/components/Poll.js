@@ -23,7 +23,6 @@ const Poll = ({
 
   const addPolled = () => {
     dispatch(handleSaveAnswer(question.id, answer));
-    navigate("/");
   };
 
   return (

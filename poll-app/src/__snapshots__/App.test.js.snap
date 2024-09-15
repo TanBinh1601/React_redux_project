@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App render app 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="container"
+        >
+          <form
+            class="row d-flex flex-column align-items-center"
+          >
+            <h2
+              class="p-4 d-flex justify-content-center"
+            >
+              Login
+            </h2>
+            <div
+              class="col-4 mb-2"
+            >
+              <label
+                class="form-label"
+                for="inputUsername"
+              >
+                Username
+              </label>
+              <input
+                autocomplete="username"
+                class="form-control"
+                data-testid="username"
+                id="inputUsername"
+                placeholder="Username"
+                type="text"
+                value="sarahedo"
+              />
+            </div>
+            <div
+              class="col-4"
+            >
+              <label
+                class="form-label"
+                for="inputPassword"
+              >
+                Password
+              </label>
+              <input
+                autocomplete="current-password"
+                class="form-control"
+                data-testid="password"
+                id="inputPassword"
+                placeholder="Password"
+                type="password"
+                value="password123"
+              />
+            </div>
+            <button
+              class="btn btn-primary"
+              data-testid="submit"
+            >
+              Login
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="container"
+      >
+        <form
+          class="row d-flex flex-column align-items-center"
+        >
+          <h2
+            class="p-4 d-flex justify-content-center"
+          >
+            Login
+          </h2>
+          <div
+            class="col-4 mb-2"
+          >
+            <label
+              class="form-label"
+              for="inputUsername"
+            >
+              Username
+            </label>
+            <input
+              autocomplete="username"
+              class="form-control"
+              data-testid="username"
+              id="inputUsername"
+              placeholder="Username"
+              type="text"
+              value="sarahedo"
+            />
+          </div>
+          <div
+            class="col-4"
+          >
+            <label
+              class="form-label"
+              for="inputPassword"
+            >
+              Password
+            </label>
+            <input
+              autocomplete="current-password"
+              class="form-control"
+              data-testid="password"
+              id="inputPassword"
+              placeholder="Password"
+              type="password"
+              value="password123"
+            />
+          </div>
+          <button
+            class="btn btn-primary"
+            data-testid="submit"
+          >
+            Login
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
